@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+opencv-python-headless
+pydantic
+pytest
+pydantic-settings
