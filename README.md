@@ -1,4 +1,4 @@
-# YOLOv8 Streamlit Demo
+# Live Detection with Streamlit, Pydantic, pytest, CI/CD, and Docker 🚀
 
 ## Run Locally
 
